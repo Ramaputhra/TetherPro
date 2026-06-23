@@ -1,0 +1,6 @@
+{
+  "name": "Tether Dashboard",
+  "description": "A high-performance fullscreen dashboard displaying real-time USB tethering and Wi-Fi connection status, link details, local IP addresses, and live upload/download speed monitors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
